@@ -17,6 +17,7 @@ A simple chatbot implementation using JavaScript and integration with the OpenAI
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
+```
 
 ## Usage
 
@@ -32,6 +33,7 @@ Update the `API_KEY` variable in `script.js` with your actual OpenAI GPT-3.5 Tur
 
 ```javascript
 const API_KEY = "PASTE-YOUR-API-KEY"; // Paste your API key here
+```
 
 ## Customization
 Feel free to customize the chatbot appearance and behavior by modifying the HTML, CSS, and JavaScript files.
