@@ -16,7 +16,7 @@ A simple chatbot implementation using JavaScript and integration with the OpenAI
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/shaadclt/Chatbot-Javascript-HTML-CSS.git
 ```
 
 ## Usage
